@@ -1,4 +1,4 @@
-export API_KEY=
+export API_KEY=AIzaSyBpr7EYLTKqPgqNBxmwsWTyGtkXLmrYIjg
 export PROJECT_ID=
 
 gsutil mb gs://$PROJECT_ID
